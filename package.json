@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/ohenriqueeduardo/Programacao_web#readme",
   "dependencies": {
+    "better-sqlite3": "^12.8.0",
+    "drizzle-orm": "^0.45.2",
     "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
